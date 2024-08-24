@@ -12,11 +12,33 @@ Ever wished you could summon an army of cute, colorable images with just a few c
 
 ## 🚀 Features
 
-- 🎨 Generate unique coloring pages with various themes
-- 🔢 Choose how many masterpieces you want (up to 10!)
-- 📥 Download your creations as a zip file
-- 🌈 Perfect for rainy days, birthday parties, or when you just need a dose of cuteness
+🎨 Generate unique coloring pages with various themes
+🔢 Choose how many masterpieces you want (up to 10!)
+📥 Download your creations as a zip file
+🌈 Perfect for rainy days, birthday parties, or when you just need a dose of cuteness
 
+## 📁 Project Structure
+```
+coloring-images-generator
+├── main.py
+├── api/
+│ └── openai_client.py
+├── generators/
+│ ├── theme_generator.py
+│ └── image_generator.py
+├── utils/
+│ ├── file_operations.py
+│ └── image_processing.py
+├── ui/
+│ └── streamlit_app.py
+├── images/
+│ ├── magic_garden.png
+│ └── super.png
+├── requirements.txt
+├── Dockerfile
+├── docker-compose.yml
+└── README.md
+```
 ## 🏃‍♂️ Getting Started
 ### Prerequisites
 
@@ -28,14 +50,14 @@ Ever wished you could summon an army of cute, colorable images with just a few c
 
 ### Option 1: Use Our Streamlit Page (No Code Required!)
 
-1. Visit our Streamlit page at [[AI Coloring Book Generator](https://coloring-images-generator.streamlit.app/)]
+1. Visit our Streamlit page at [[AI Coloring Book Generator](https://letmepractice.com/proxy/8503/)]
 2. Get ready to generate some adorable coloring pages!
 
 ### Option 2: Run It Yourself
 
 1. Clone this repo faster than a cheetah chasing its tail
 2. Install the requirements (it's like feeding your virtual pet)
-3. Run `streamlit run app.py` and watch the magic happen!
+3. Run `streamlit run main.py` and watch the magic happen!
 
 ## 🔑 Getting Your OpenAI API Key
 

@@ -1,0 +1,9 @@
+version: '3'
+services:
+  coloring-images-generator:
+    build: .
+    ports:
+      - "8503:8503"
+    volumes:
+      - ./download_creation:/app/download_creation
+    restart: always
