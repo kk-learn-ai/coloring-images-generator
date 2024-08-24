@@ -120,10 +120,10 @@ def main():
 
     ## 🚀 Features
 
-    🎨 Generate unique coloring pages with various themes
-    🔢 Choose how many masterpieces you want (up to 10!)
-    📥 Download your creations as a zip file
-    🌈 Perfect for rainy days, birthday parties, or when you just need a dose of cuteness
+    - 🎨 Generate unique coloring pages with various themes
+    - 🔢 Choose how many masterpieces you want (up to 10!)
+    - 📥 Download your creations as a zip file
+    - 🌈 Perfect for rainy days, birthday parties, or when you just need a dose of cuteness
     """)
 
     show_openai_instructions()  # give an option for pop-up for obtaining OpenAI API key instruction

@@ -12,10 +12,10 @@ Ever wished you could summon an army of cute, colorable images with just a few c
 
 ## 🚀 Features
 
-🎨 Generate unique coloring pages with various themes
-🔢 Choose how many masterpieces you want (up to 10!)
-📥 Download your creations as a zip file
-🌈 Perfect for rainy days, birthday parties, or when you just need a dose of cuteness
+- 🎨 Generate unique coloring pages with various themes
+- 🔢 Choose how many masterpieces you want (up to 10!)
+- 📥 Download your creations as a zip file
+- 🌈 Perfect for rainy days, birthday parties, or when you just need a dose of cuteness
 
 ## 📁 Project Structure
 ```
