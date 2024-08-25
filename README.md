@@ -50,7 +50,7 @@ coloring-images-generator
 
 ### Option 1: Use Our Streamlit Page (No Code Required!)
 
-1. Visit our Streamlit page at [[AI Coloring Book Generator](https://letmepractice.com/proxy/8503/)]
+1. Visit our Streamlit page at [[AI Coloring Book Generator](https://letmepractice.com/coloring/)]
 2. Get ready to generate some adorable coloring pages!
 
 ### Option 2: Run It Yourself
