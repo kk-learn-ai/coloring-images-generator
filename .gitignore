@@ -1,0 +1,47 @@
+# Python bytecode cache directories
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Logs
+logs/
+*.log
+
+# Secrets and configuration
+secrets/
+.env
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Compiled Python files
+*.pyc
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Test coverage
+.coverage
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
